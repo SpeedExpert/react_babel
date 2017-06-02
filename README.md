@@ -1,6 +1,6 @@
-# react-example
+# react-babel
 
-React example app that demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
+demonstrates using [React] with [webpack], and [babeljs], as well as project structure.
 
 Requirements:
 - git
